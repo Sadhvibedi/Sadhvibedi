@@ -4,8 +4,6 @@
 
 <h1>Hi, I'm Sadhvi Bedi 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Aspiring+Business+Analyst;Learning+Python+%7C+SQL+%7C+Power+BI;Turning+Numbers+into+Narratives%2C+One+Dataset+at+a+Time" alt="Typing SVG" />
-
 <a href="https://www.linkedin.com/in/sadhvi-bedi-b2958b286/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
