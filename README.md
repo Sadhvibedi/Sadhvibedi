@@ -5,8 +5,6 @@
 <h1>Hi, I'm Sadhvi Bedi 👋</h1>
 
 <a href="https://www.linkedin.com/in/sadhvi-bedi-b2958b286/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
