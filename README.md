@@ -12,32 +12,32 @@
 
 ### 👩‍💻 About Me
 
-I'm a fresh graduate with a **BA (Hons) in Computer Application, with a minor in Mathematics**. My academic background gave me a strong foundation in logical thinking, problem-solving, and working with numbers — and I've realized that what excites me most is turning raw data into insights that actually help people make decisions. That's what's pulling me toward a career as a **Data Analyst / Business Analyst**.
+I'm Graduated with a **BA (Hons) in Computer Application, with a minor in Mathematics**. My academic background gave me a strong foundation in logical thinking, problem-solving, and working with numbers — and I've realized that what excites me most is turning raw data into insights that actually help people make decisions. That's what's pulling me toward a career as a **Data Analyst / Business Analyst**.
 
-I'm currently building up my practical skills through hands-on projects and self-learning, one dataset at a time.
-
----
-
-### 📚 Currently Learning
-
-- 🐍 Python  
-- 🗃️ SQL  
-- 📊 Power BI  
-- 📈 Excel  
-- 📐 Statistics  
-- 🤖 Machine Learning Fundamentals  
+I'm currently building up my practical skills through hands-on projects, one dataset at a time.
 
 ---
 
-### 🛠️ Tools & Tech
+### 🛠️ Skills
 
-**Data Analysis:** Python · Pandas · SQL  
-**Visualization:** Power BI · Excel  
+**Programming & Data:** Python · Pandas · NumPy · SQL · SQLite  
+**Visualization & BI:** Power BI · Excel · Matplotlib · Seaborn  
+**Tools:** Git/GitHub · Jupyter Notebook  
 **Foundations:** Statistics · Machine Learning Basics  
 
 ---
 
 ### 📂 Projects / Case Studies
+
+**📊 Indian Startup Funding Analysis**
+- **Business Problem:** Understand which sectors, cities, and investors dominate Indian startup funding, and how funding activity has changed over time.
+- **Approach:** Cleaned messy real-world data (inconsistent dates, funding amounts, city/industry naming, multi-investor records), then analyzed and cross-validated findings using both Python and SQL, including window functions for year-over-year growth and sector ranking.
+- **Tools Used:** Python, Pandas, SQL (SQLite), Matplotlib, Seaborn
+
+**🛒 Blinkit Sales Dashboard**
+- **Business Problem:** Analyze retail sales performance across outlet types, locations, and product categories for a grocery delivery business.
+- **Approach:** Built an interactive Power BI dashboard with DAX measures, dynamic KPI toggles, and outlet-tier data modeling to surface sales patterns by location, size, and item category.
+- **Tools Used:** Power BI, DAX
 
 **🍷 Red Wine Quality Analysis**
 - **Business Problem:** Understand which physicochemical properties most influence the quality rating of red wine.
@@ -73,5 +73,3 @@ Internships and entry-level opportunities as a **Data Analyst / Business Analyst
 <a href="https://www.linkedin.com/in/sadhvi-bedi-b2958b286/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</div>
