@@ -21,8 +21,7 @@ I'm currently building up my practical skills through hands-on projects, one dat
 ### 🛠️ Skills
 
 **Programming & Data:** Python · Pandas · NumPy · SQL · SQLite  
-**Visualization & BI:** Power BI · Excel · Matplotlib · Seaborn  
-**Tools:** Git/GitHub · Jupyter Notebook  
+**Visualization & BI:** Power BI · Excel · Matplotlib · Seaborn   
 **Foundations:** Statistics · Machine Learning Basics  
 
 ---
