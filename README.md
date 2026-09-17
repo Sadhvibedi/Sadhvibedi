@@ -51,17 +51,6 @@ I'm currently building up my practical skills through hands-on projects, one dat
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sadhvibedi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadhvibedi&layout=compact&hide_border=true" alt="Top Languages" width="40%"/>
-
-</div>
-
----
-
 ### 🎯 Open To
 
 Internships and entry-level opportunities as a **Data Analyst / Business Analyst**.
@@ -72,4 +61,7 @@ Internships and entry-level opportunities as a **Data Analyst / Business Analyst
 
 <a href="https://www.linkedin.com/in/sadhvi-bedi-b2958b286/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sadhvibedi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
