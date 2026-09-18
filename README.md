@@ -33,9 +33,9 @@ I'm currently building up my practical skills through hands-on projects, one dat
 - **Approach:** Cleaned messy real-world data (inconsistent dates, funding amounts, city/industry naming, multi-investor records), then analyzed and cross-validated findings using both Python and SQL, including window functions for year-over-year growth and sector ranking.
 - **Tools Used:** Python, Pandas, SQL (SQLite), Matplotlib, Seaborn
 
-**🛒 Blinkit Sales Dashboard**
-- **Business Problem:** Analyze retail sales performance across outlet types, locations, and product categories for a grocery delivery business.
-- **Approach:** Built an interactive Power BI dashboard with DAX measures, dynamic KPI toggles, and outlet-tier data modeling to surface sales patterns by location, size, and item category.
+**👥 HR Attrition Analytics Dashboard**
+- **Business Problem:** Understand where and why employee attrition is concentrated — by age, department, salary band, tenure, and job role — to help target retention efforts.
+- **Approach:** Built an interactive Power BI dashboard with DAX measures, a matrix table cross-tabulating job role against performance ratings, and demographic breakdowns (age, education, salary, tenure) to surface attrition patterns.
 - **Tools Used:** Power BI, DAX
 
 **🍷 Red Wine Quality Analysis**
