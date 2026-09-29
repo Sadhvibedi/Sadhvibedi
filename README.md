@@ -41,7 +41,7 @@ I'm currently building up my practical skills through hands-on projects, one dat
 #### 🛒 Flipkart Product Review Sentiment Analysis
 
 - **Business Problem:** Automatically classify customer reviews as positive, negative or neutral, so e-commerce teams can quickly spot product issues and customer satisfaction trends without reading thousands of reviews by hand.
-- **Approach:** Cleaned ~205k raw scraped reviews down to ~169k usable rows (invalid ratings, duplicates, empty text), converted the text with TF-IDF, and compared Naive Bayes against class-balanced Logistic Regression. Because positive reviews outnumber the rest about 5:1, I evaluated with macro-F1 instead of accuracy. The final model reached a macro-F1 of about 0.64.
+- **Approach:** - Cleaned and preprocessed ~205k raw rows of Flipkart reviews (removing invalid ratings, duplicates and empty text) to obtain ~169k usable records. Transformed the text into TF-IDF features and benchmarked Multinomial Naive Bayes against class-weighted Logistic Regression. To address the ~5:1 class imbalance, models were evaluated using macro-F1 rather than accuracy.
 - **Tools Used:** Python, Pandas, Scikit-learn, TF-IDF, Matplotlib, Seaborn
 
 **🍷 Red Wine Quality Analysis**
