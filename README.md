@@ -38,6 +38,12 @@ I'm currently building up my practical skills through hands-on projects, one dat
 - **Approach:** Built an interactive Power BI dashboard with DAX measures, a matrix table cross-tabulating job role against performance ratings, and demographic breakdowns (age, education, salary, tenure) to surface attrition patterns.
 - **Tools Used:** Power BI, DAX
 
+  #### 🛒 Flipkart Product Review Sentiment Analysis
+
+- **Business Problem:** Automatically classify customer reviews as positive, negative or neutral, so e-commerce teams can quickly spot product issues and customer satisfaction trends without reading thousands of reviews by hand.
+- **Approach:** Cleaned ~205k raw scraped reviews down to ~169k usable rows (invalid ratings, duplicates, empty text), converted the text with TF-IDF, and compared Naive Bayes against class-balanced Logistic Regression. Because positive reviews outnumber the rest about 5:1, I evaluated with macro-F1 instead of accuracy. The final model reached a macro-F1 of about 0.64.
+- **Tools Used:** Python, Pandas, Scikit-learn, TF-IDF, Matplotlib, Seaborn
+
 **🍷 Red Wine Quality Analysis**
 - **Business Problem:** Understand which physicochemical properties most influence the quality rating of red wine.
 - **Approach:** Explored and cleaned the dataset, analyzed correlations between variables, and built visualizations to identify the strongest quality indicators.
